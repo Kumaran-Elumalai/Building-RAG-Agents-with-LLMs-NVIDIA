@@ -46,3 +46,16 @@ During development, I encountered several challenges:
 Through **iterative debugging, prompt refinement, and chain optimization**, the **final evaluation successfully passed ✅**, highlighting the importance of **retrieval quality, prompt design, and chain orchestration** in RAG systems.
 
 ---
+
+## 🏁 Key Skills & Takeaways
+
+This project strengthened my expertise in:  
+
+- Designing **retriever–generator pipelines** using LangChain runnables  
+- **Prompt engineering** for factuality, conciseness, and semantic alignment  
+- Working with **FAISS vector stores** and **NVIDIA embeddings**  
+- Integrating **LLMs** (Meta Llama 3) into a robust RAG pipeline  
+- Debugging **evaluation metrics** and API routing issues  
+- Understanding **synthetic QA evaluation** and system performance metrics  
+
+---
