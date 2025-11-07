@@ -63,4 +63,28 @@ This project strengthened my expertise in:
 
 I plan to extend this project into a **RAG Agent with memory**, **advanced evaluation dashboards**, and **dynamic prompt adaptation**, aiming for even more robust, enterprise-ready AI applications.
 
---
+---
+
+/Building-RAG-Agents-with-LLMs-NVIDIA
+├─ 00_JupyterLab/
+├─ 01_Microservices/
+├─ 02_ILMs/
+├─ 03_LangChain_Intro/
+├─ 04_Running_State/
+├─ 05_Documents/
+├─ 06_Embeddings/
+├─ 07_VectorStores/
+├─ 08_Evaluation/
+├─ 09_LangServe_Assessment/
+├─ 64_Guardrails/
+├─ 99_Table_of_Contents.md
+├─ Chatbot/
+├─ Composer/
+├─ Frontend/
+├─ ILM_Client/
+├─ Docker_Router/
+├─ Slides/
+├─ Solutions/
+├─ Imgs/
+└─ README.md
+
