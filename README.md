@@ -64,6 +64,7 @@ This project strengthened my expertise in:
 I plan to extend this project into a **RAG Agent with memory**, **advanced evaluation dashboards**, and **dynamic prompt adaptation**, aiming for even more robust, enterprise-ready AI applications.
 
 ---
+```
 /Building-RAG-Agents-with-LLMs-NVIDIA
   00_JupyterLab/
   01_Microservices/
@@ -86,5 +87,5 @@ I plan to extend this project into a **RAG Agent with memory**, **advanced evalu
   Solutions/
   Imgs/
   README.md
-
+```
 
