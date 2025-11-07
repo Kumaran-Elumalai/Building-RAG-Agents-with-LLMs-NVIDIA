@@ -97,4 +97,12 @@ I plan to extend this project into a **RAG Agent with memory**, **advanced evalu
 - **FAISS** for vector similarity search  
 - **NVIDIA nv-embed-v1 embeddings**  
 - **Meta Llama 3 (ChatNVIDIA API)**  
-- **Python 3.11**  
+- **Python 3.11**
+
+---
+
+## 🔖 References
+
+- NVIDIA “Building RAG Agents with LLMs” course  
+- ArXiv papers used as retrieval data  
+
