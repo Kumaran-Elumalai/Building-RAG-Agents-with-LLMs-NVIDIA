@@ -59,3 +59,8 @@ This project strengthened my expertise in:
 - Understanding **synthetic QA evaluation** and system performance metrics  
 
 ---
+## ✨ Next Steps
+
+I plan to extend this project into a **RAG Agent with memory**, **advanced evaluation dashboards**, and **dynamic prompt adaptation**, aiming for even more robust, enterprise-ready AI applications.
+
+--
