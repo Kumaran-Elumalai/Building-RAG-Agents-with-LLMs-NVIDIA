@@ -36,3 +36,13 @@ Designing a RAG system that balances **retrieval accuracy** and **generation qua
 3️⃣ **RAG Chain** – Integrates both to ensure contextually accurate and semantically aligned responses  
 
 ---
+## ⚙️ Evaluation & Debugging Journey
+
+During development, I encountered several challenges:
+
+- **Evaluation Errors:** Gradio stream failures and client errors  
+- **Low QA Scores:** Initial outputs lacked semantic accuracy  
+
+Through **iterative debugging, prompt refinement, and chain optimization**, the **final evaluation successfully passed ✅**, highlighting the importance of **retrieval quality, prompt design, and chain orchestration** in RAG systems.
+
+---
