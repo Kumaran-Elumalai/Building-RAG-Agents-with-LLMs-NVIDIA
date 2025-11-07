@@ -106,3 +106,8 @@ I plan to extend this project into a **RAG Agent with memory**, **advanced evalu
 - NVIDIA “Building RAG Agents with LLMs” course  
 - ArXiv papers used as retrieval data  
 
+---
+
+## 🔖 Keywords / Hashtags
+
+#RetrievalAugmentedGeneration #LangChain #FAISS #NVIDIAAI #LLM #GenerativeAI #PromptEngineering #AIProjects #MachineLearning #AIEngineering
