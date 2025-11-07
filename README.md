@@ -19,3 +19,20 @@ Designing a RAG system that balances **retrieval accuracy** and **generation qua
 - Successfully **built and deployed a full RAG system**  
 - **Passed the final synthetic QA evaluation successfully ✅**, demonstrating strong semantic alignment and end-to-end pipeline performance  
 
+---
+
+## 🧩 Implementation Details
+
+**Frameworks & APIs:** LangChain + LangServe + FastAPI  
+**Vector Store:** FAISS for high-performance similarity search  
+**Embeddings:** NVIDIA nv-embed-v1 for high-quality semantic representations  
+**LLM:** Meta Llama 3 (via ChatNVIDIA API)  
+**Data Source:** ArXiv papers on RAG  
+**Deployment:** Custom API endpoints (`/retriever`, `/generator`, `/basic_chat`)  
+
+**Core Components Built:**  
+1️⃣ **Retriever Chain** – Fetches top-k relevant documents using FAISS  
+2️⃣ **Generator Chain** – Produces factual, concise answers  
+3️⃣ **RAG Chain** – Integrates both to ensure contextually accurate and semantically aligned responses  
+
+---
