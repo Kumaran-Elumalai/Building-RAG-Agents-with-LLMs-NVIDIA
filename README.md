@@ -1,4 +1,4 @@
-  # 🚀 Building RAG Agents with LLMs – NVIDIA
+   # 🚀 Building RAG Agents with LLMs – NVIDIA
  
 This repository showcases my **hands-on implementation of Retrieval-Augmented Generation (RAG) agents** as part of **NVIDIA’s “Building RAG Agents with LLMs” course**.  
 
