@@ -98,7 +98,6 @@ I plan to extend this project into a **RAG Agent with memory**, **advanced evalu
 - **NVIDIA nv-embed-v1 embeddings**  
 - **Meta Llama 3 (ChatNVIDIA API)**  
 - **Python 3.11**
-
 ---
 
 ## 🔖 References
