@@ -5,7 +5,6 @@ This repository showcases my **hands-on implementation of Retrieval-Augmented Ge
 It demonstrates my ability to design, implement, debug, and evaluate an **end-to-end RAG pipeline** using state-of-the-art AI tools and frameworks, combining retrieval, generation, and evaluation.
 
 ---
-
 ## 💡 Project Overview
 
 RAG systems are the backbone of modern AI-powered chatbots and assistants. They combine:
